@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "932188497869",
+    "project_id": "activityaware"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932188497869:android:6c5d5f3a593e47b4",
+        "android_client_info": {
+          "package_name": "id.ac.its.activityaware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932188497869-becpc3qucg4hcs9gfiqvag18ebqh20o5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.its.activityaware",
+            "certificate_hash": "F378F1AE1A664A2589F4ADE8E1E25BEAB79ED3F3"
+          }
+        },
+        {
+          "client_id": "932188497869-o6gn50770adqmj58njjj6n10sqfftc4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS1w9mm0SBvJB-oZN9YHF5a1a7FmMjkWQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
